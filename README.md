@@ -1,1 +1,1 @@
-# catchoftheday
+# catch-of-the-day
